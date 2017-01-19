@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Login Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user">User</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_btn_submit">Submit</string>
+    <string name="title_activity_login_user">LoginUser</string>
+
+    <string name="title_section1">Chats</string>
+    <string name="title_section2">FileManager</string>
+
+    <string name="title_activity_chat_list">chatList</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_activity_message_load">MessageLoad</string>
+    <string name="title_activity_file_explorer">FileExplorer</string>
+
+</resources>
